@@ -1,0 +1,4 @@
+{
+  "fileUris" = (,"https://raw.githubusercontent.com/fluffy-bunny/automation-scripts/master/automate-chocolatey.ps1");
+  "commandToExecute" = "powershell -ExecutionPolicy Unrestricted -File automate-chocolatey.ps1"
+}
